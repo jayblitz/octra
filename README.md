@@ -8,7 +8,7 @@ https://discord.gg/octra
 ## Requirements
 Linux Ubuntu OS
 * **VPS**: You can use a linux VPS to follow the guide
-* **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows)
+* **Github**: Visit Codespaces and create a blank template ([https://github.com/codespaces][url](https://github.com/codespaces)) 
 
 ---
 
@@ -18,7 +18,7 @@ Install & Update Packages:
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git
 ```
-Install Nodejs (Only VPS users)
+Install Nodejs 
 ```
 sudo apt update
 sudo curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
@@ -47,7 +47,7 @@ yarn -v
 
 ### 3. Open your browser
 * **WSL/Linux/MAC users:**
-  * Navigate to `http://localhost:8888` on browser
+  * A prompt will direct you open in browser, just click it
 
   
 * **VPS users:**
@@ -77,7 +77,6 @@ yarn -v
 * Visit [Faucet page](https://faucet.octra.network/)
 * Enter your address starting with `oct...` to get faucet
 
-![image](https://github.com/user-attachments/assets/18597b40-eaad-434f-a026-cc4a56a6d1a8)
 
 ---
 
