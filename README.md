@@ -8,7 +8,7 @@ https://discord.gg/octra
 ## Requirements
 Linux Ubuntu OS
 * **VPS**: You can use a linux VPS to follow the guide
-* **Github**: Visit Codespaces and create a blank template ([https://github.com/codespaces][url](https://github.com/codespaces)) 
+* **Github**: Visit Codespaces and create a blank template [https://github.com/codespaces]
 
 ---
 
